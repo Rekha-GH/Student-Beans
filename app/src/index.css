@@ -13,3 +13,74 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+
+
+.p-5 {
+  padding: 5px;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-15 {
+  padding: 15px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mt-30 {
+  margin-top: 30px;
+}
+.profile_pic {
+  height: 75px;
+  width: 75px;
+  object-fit: cover;
+}
+.col-right {
+  padding-left: 25px;
+}
+.user .username {
+  font-weight: 700;
+  font-size: 15px;
+}
+.user .location {
+  font-size: 12px;
+}
+.hr {
+  color: #c7c7c7;
+}
+.comments {
+  max-height: 250px;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.comment .username {
+  font-weight: 700;
+  font-size: 15px;
+  margin-right: 5px;
+}
+.comment .text {
+  font-size: 14px;
+}
+.tags {
+}
+.footer {
+  margin-top: 5px;
+}
+.tag {
+  color: #2F5083;
+  margin-right: 5px;
+  font-size: 14px;
+}
+.likes {
+  font-weight: 700;
+  font-size: 16px;
+}
+.date {
+  color: #c7c7c7;
+  text-transform: uppercase;
+  font-size: 13px;
+}
